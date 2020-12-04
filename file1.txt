@@ -2,4 +2,8 @@ hello git
 second
 third - mybranch1
 fourth - mybranch1
+<<<<<<< HEAD
 some hotfix
+=======
+Add 1 feature
+>>>>>>> faf28d2 (Add feature1`)
